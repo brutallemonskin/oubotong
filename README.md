@@ -8,12 +8,6 @@
 
   <img src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/giphy.gif" width="100"/><br>
   <div id="badges">
-    <a href="https://oubotong.github.io/johan/">
-      <img src="https://img.shields.io/badge/Portofolio-lightgreen?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-    </a>
-    <a href="http://www.linkedin.com/in/botong97">
-      <img src="https://img.shields.io/badge/Linkedin-lightblue?style=for-the-badge&logo=linkedin&logoColor=black" alt="Linkedin Badge"/>
-    </a>
     <a href="https://space.bilibili.com/16596867">
       <img src="https://img.shields.io/badge/Bilibili-pink?style=for-the-badge&logo=bilibili&logoColor=black" alt="Bilibili Badge"/>
     </a>
